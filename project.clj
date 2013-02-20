@@ -5,7 +5,7 @@
               [[ch.qos.logback/logback-core "1.0.1"]
                [ch.qos.logback/logback-classic "1.0.1"]]}}
   :dependencies [[org.clojure/clojure "1.3.0"]
-                 [vmfest "0.2.5-SNAPSHOT"]
+                 [vmfest "0.3.0-alpha.1"]
                  [ring "1.1.0-RC1"]
                  [org.clojure/tools.logging "0.2.3"]
                  [clj-ssh "0.3.1"]]
